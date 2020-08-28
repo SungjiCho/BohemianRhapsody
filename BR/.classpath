@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/eclipse/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/quartz-2.3.0-SNAPSHOT/lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/quartz-2.3.0-SNAPSHOT/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/quartz-2.3.0-SNAPSHOT/lib/quartz-2.3.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/quartz-2.3.0-SNAPSHOT/lib/quartz-jobs-2.3.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/quartz-2.3.0-SNAPSHOT/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/quartz-2.3.0-SNAPSHOT/lib/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/eclipse/quartz-2.3.0-SNAPSHOT/src/org/quartz"/>
+	<classpathentry kind="lib" path="C:/eclipse/quartz-2.3.0-SNAPSHOT/src/org/terracotta"/>
+	<classpathentry kind="lib" path="C:/eclipse/quartz-2.3.0-SNAPSHOT/src/META-INF"/>
+	<classpathentry kind="lib" path="C:/eclipse/aaaaaaaaa/lombok.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
